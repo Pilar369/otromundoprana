@@ -1,0 +1,32 @@
+/*paleta de colores 
+#DBCC95 beige
+#E7B10A mostaza
+#898121 verde musgo
+#4C4B16 verde oscuro*/
+/*font*/
+
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+
+/*fonts.googleapis.com/css2?family=Alkatra&display=swap" rel="stylesheet">*/
+
+body{
+    font-family:"Alkatra", serif ;
+}
+/*header*/
+
+header{
+    background-color: #898121;
+}
+
+header> img{
+    width: 80px;  
+}
+
+header ul{
+    list-style: none;
+}
+
+header a{
+    color: #DBCC95;
+    text-decoration: none;
+}
